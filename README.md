@@ -220,3 +220,7 @@ HALA_RT_v1/
 ### Reference
 
 - **`docs/output_schema.md`** — The canonical CSV output schema (Phase 5).
+
+## License
+
+Released under the [MIT License](LICENSE).
